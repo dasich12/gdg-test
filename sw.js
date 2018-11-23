@@ -1,6 +1,6 @@
 importScripts('/lib/idb-keyval-iife.min.js');
 
-const SERVER_URL = 'https://www.jsonstore.io/df5d931f3d12b166bdd9acc7b21c5346be91e20f272bd41857a8b7edb0897e21';
+const SERVER_URL = 'https://www.jsonstore.io/a80a38ab685da4c1cd3a8fda92007beed010c57981856b0bc388fa12720a9104';
 const CACHE_NAME = 'todo-pwa-v2';
 
 const urlsToCache = [
